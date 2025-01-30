@@ -15,7 +15,7 @@
 
    ```bash
    git clone https://github.com/Kariel97/api.git
-   cd gestor-tareas
+   cd prueba
    
    
 2. **Crea un entorno virtual**:
